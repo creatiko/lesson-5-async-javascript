@@ -1,6 +1,6 @@
-**Try/catch and async/await**
----
-Let's make some code work better with async/await and try/catch blocks.
+## **Try/catch and async/await**
+
+This exercise was to make some code work better with async/await and try/catch blocks.
 
 Our friend Whiskers has a new function on his site. Now, when you click the button on his page, he'll get a message saying how many notifications he has.
 
@@ -20,8 +20,8 @@ First off, you'll notice an indicator letting the user know their notifications 
 
 Your challenge is to take the script that currently exists in the code and improve it using async/await and try/catch.
 
-**Getting started:**
----
+## **Getting started:**
+
 In order to work on this project you'll need to go to this GitHub repository.
 
 This folder holds all your starter files you'll need.
@@ -30,8 +30,8 @@ The ONLY file you need to edit is the scripts.js file in the js folder. In the s
 
 As always, don't touch the HTML or CSS. Work within the framework you're given.
 
-**Tips:**
----
+## **Tips:**
+
 When you use a try/catch block, remember to think about the scope of your variables. How can you make a variable available in both the try block and the catch block?
 
 Use a ternary to adjust the message based on the number received. Remember that the only time words don't end in 's' is if there's one of them. Use that in your logic to make sure the grammar is correct.
